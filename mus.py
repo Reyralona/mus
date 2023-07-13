@@ -74,3 +74,4 @@ keychords = getKeyChords(key, notenum=4)
 
 for degree, each in enumerate(keychords):
     print(degree + 1, each, getIntervalsBetweenNotes(each))
+    #from desktop
